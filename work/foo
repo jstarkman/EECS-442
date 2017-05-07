@@ -1,0 +1,1 @@
+srun --mem=16gb -n 8 -N 1 --cpus-per-task=1 --account=DataFest --pty /bin/bash  
